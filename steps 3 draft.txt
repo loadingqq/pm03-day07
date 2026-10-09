@@ -1,0 +1,7 @@
+name - название workflow отображается во вкладке Actions
+on - cобытия  при которых запускается workflow
+permissions - права токена GitHub Actions
+jobs - набор задач 
+runs-on - среда выполнения 
+strategy - матрица вариантов окружения 
+steps  - последовательность шагов job
